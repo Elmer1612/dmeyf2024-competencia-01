@@ -1,0 +1,13 @@
+Alumno: Elmer Laime
+
+Este repositorio contiene 2 notebooks que hacen a la entrega final de la primera competencia.
+
+Se deben correr en el siguiente orden:
+1- Ejecutar el script de la notebook "Competencia_01_Elmer_Laime" para generar el dataset con la clase ternaria
+2- Ejecutar el script en R "Kaggle dmEyF - v003_TP1_solucion" para generar el archivo para Kaggle.
+3- El archivo elegido tiene el mismo nombre que el submit seleccionado (v003-TP1_solucion.csv)
+
+
+Es necesario cambiar ruta/directorio donde se encuentra el archivo de datos que se va a cargar.
+
+
